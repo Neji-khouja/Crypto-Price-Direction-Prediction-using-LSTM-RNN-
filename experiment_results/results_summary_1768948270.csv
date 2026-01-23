@@ -1,0 +1,1 @@
+seq_len,future_period,learning_rate,batch_size,lstm_units,dropout,optimizer,feature_set,val_accuracy,val_loss,train_accuracy,train_loss,best_epoch,model_path

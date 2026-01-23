@@ -1,0 +1,23 @@
+# Data
+data/raw/
+data/processed/
+
+# Models & logs
+models/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+
+# Virtual env
+env/
+venv/
+.pyenv/
+
+# OS
+.DS_Store
+Thumbs.db
